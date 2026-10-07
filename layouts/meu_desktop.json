@@ -1,0 +1,173 @@
+{
+    "name": "meu_desktop",
+    "items": {
+        "Lixeira": {
+            "x": 20,
+            "y": 2
+        },
+        "bkp_base_conhecimento": {
+            "x": 20,
+            "y": 88
+        },
+        "senior-painel-V1": {
+            "x": 20,
+            "y": 174
+        },
+        "planilha_rh": {
+            "x": 20,
+            "y": 260
+        },
+        "Fluxos_n8n": {
+            "x": 20,
+            "y": 346
+        },
+        "auth_flutter": {
+            "x": 20,
+            "y": 432
+        },
+        "TLauncher": {
+            "x": 20,
+            "y": 518
+        },
+        "VLC media player": {
+            "x": 20,
+            "y": 604
+        },
+        "senior-painel-V2": {
+            "x": 96,
+            "y": 88
+        },
+        "senior-painel-V3": {
+            "x": 96,
+            "y": 174
+        },
+        "QueryDeggy": {
+            "x": 96,
+            "y": 260
+        },
+        "ModelChatGPT": {
+            "x": 96,
+            "y": 346
+        },
+        "gestao_ponto_hml_01": {
+            "x": 96,
+            "y": 432
+        },
+        "Deggy Control": {
+            "x": 96,
+            "y": 518
+        },
+        "teste_flutter": {
+            "x": 172,
+            "y": 88
+        },
+        "flow-zen": {
+            "x": 172,
+            "y": 174
+        },
+        "posture-reminder": {
+            "x": 172,
+            "y": 260
+        },
+        "dash-portainer": {
+            "x": 172,
+            "y": 346
+        },
+        "api_marketUP": {
+            "x": 172,
+            "y": 432
+        },
+        "Relatorios Deggy.txt": {
+            "x": 400,
+            "y": 260
+        },
+        "SEIdle": {
+            "x": 476,
+            "y": 174
+        },
+        "UPDATE_GLPI.md": {
+            "x": 476,
+            "y": 260
+        },
+        "QR Code py": {
+            "x": 1545,
+            "y": 1622
+        },
+        "DeggyViewer": {
+            "x": 1545,
+            "y": 1730
+        },
+        "query_upd_val_doc_saida.txt": {
+            "x": 215,
+            "y": 1190
+        },
+        "WhatsApp Image 2026-10-01 at 08.07.36 (1).jpeg": {
+            "x": 215,
+            "y": 1298
+        },
+        "WhatsApp Image 2026-10-01 at 08.07.36.jpeg": {
+            "x": 215,
+            "y": 1406
+        },
+        "WhatsApp Image 2026-10-01 at 10.03.40.jpeg": {
+            "x": 310,
+            "y": 1406
+        },
+        "index.html": {
+            "x": 975,
+            "y": 1838
+        },
+        "Captura de tela 2026-10-06 105415.png": {
+            "x": 880,
+            "y": 1730
+        },
+        "Captura de tela 2026-10-06 105615.png": {
+            "x": 880,
+            "y": 1838
+        },
+        "wiki_api_hml_01": {
+            "x": 1640,
+            "y": 1622
+        },
+        "portal": {
+            "x": 1640,
+            "y": 1730
+        },
+        "SoapUI 5.10.0": {
+            "x": 310,
+            "y": 1190
+        },
+        "eye_control": {
+            "x": 310,
+            "y": 1298
+        },
+        "hand_share": {
+            "x": 975,
+            "y": 1730
+        },
+        "parking_vision": {
+            "x": 1545,
+            "y": 1514
+        },
+        "XMLNacional": {
+            "x": 1545,
+            "y": 1298
+        },
+        "WebAgent": {
+            "x": 1545,
+            "y": 1190
+        },
+        "recruitment-system-dev": {
+            "x": 1640,
+            "y": 1514
+        },
+        "encurtador_url": {
+            "x": 1640,
+            "y": 1298
+        },
+        "desktop-organizer": {
+            "x": 1640,
+            "y": 1190
+        }
+    }
+}
